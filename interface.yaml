@@ -1,0 +1,4 @@
+name: scania-train
+summary: Interface for relating to Scania backend
+version: 1
+maintainer: "Me <me@earth.com>"
